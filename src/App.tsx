@@ -3,6 +3,7 @@ import { Stars } from "./Stars";
 
 function App() {
   return (
+	
     <div className="wrapper">
       <div className="card-body">
         <Stars count={0} />
